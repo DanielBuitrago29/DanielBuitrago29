@@ -1,17 +1,17 @@
 <h1 align="center">¡Hola! Soy Yuvan Daniel Buitrago  👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Desarrollador+de+Software+💻;Ing.Sistemas en proceso+📘;Amante+del+C%C3%B3digo+y+el+Caf%C3%A9+☕;Siempre+aprendiendo+algo+nuevo+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Desarrollador+de+Software+💻;Ing+de+sistemas+en+progreso+📘;Amante+del+C%C3%B3digo+y+el+Caf%C3%A9+☕;Siempre+aprendiendo+algo+nuevo+🚀" alt="Typing SVG" />
 </p>
 
-<p align="center">💡 <em>"Codeo luego existo: cada línea es una clase, cada bug una lección."</em></p>
+<p align="center">💡 <em>"Siempre en modo while(true): aprender y mejorar."</em></p>
 
 ---
 
 ### 🧑‍💻 Sobre mí
 
 - 📍 Desde Cúcuta, Norte de Santander – Colombia 🇨🇴  
-- 👨‍🏫 Ing Sistemas en progreso(Estudiante 6 semestre)
+- 👨‍🏫 Ing de Sistemas en progreso(Estudiante 6 semestre)
 - 🧠 En constante aprendizaje: idiomas, tecnología y vida  
 - 🗣️ Idiomas: Español 🇪🇸 | Inglés 🇬🇧 (Basico) | 
 
@@ -22,7 +22,7 @@
 #### Lenguajes  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/32px-Postgresql_elephant.svg.png)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 #### Frameworks & Librerías  
