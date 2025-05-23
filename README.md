@@ -11,7 +11,7 @@
 ### 🧑‍💻 Sobre mí
 
 - 📍 Desde Cúcuta, Norte de Santander – Colombia 🇨🇴  
-- 👨‍🏫 Docente apasionado por compartir el poder del código  
+- 👨‍🏫 Ing Sistemas en progreso(Estudiante 6 semestre)
 - 🧠 En constante aprendizaje: idiomas, tecnología y vida  
 - 🗣️ Idiomas: Español 🇪🇸 | Inglés 🇬🇧 (Basico) | 
 
