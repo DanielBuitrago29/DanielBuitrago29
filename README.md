@@ -22,7 +22,7 @@
 #### Lenguajes  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![PostgreSQL](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuSSgKsYwmN0bLGFDbHmiJOIO41JvZWA0qPA&s)
+![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/32px-Postgresql_elephant.svg.png)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 #### Frameworks & Librerías  
